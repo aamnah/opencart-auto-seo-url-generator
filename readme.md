@@ -41,7 +41,7 @@ You can force keyword updates to make sure your client is using the proper URL, 
 
 ## Installation
 
-Just put the `.xml` file into the vQmod `/xml` folder. That's it!
+Use the **Extension Installer** to upload the file. Go to Modifications page and click the **Refresh** button for the changes to take effect.
 
 ## Compatibility
 
