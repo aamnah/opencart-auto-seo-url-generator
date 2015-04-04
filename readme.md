@@ -1,7 +1,9 @@
 
-# Simple SEO URL Generator
+# Auto SEO URL Generator 2.0
 
 This OpenCart extension will generate automatically the keywords to create Friendly URLs, using only characters and numbers, with no special chars, based on title. If the URL generated already exists, a number will be added to make it unique.
+
+Based on Edir Pedro's [Simple SEO URL Generator](https://github.com/edirpedro/opencart-simple-seo-url-generator). Updated to work with Opencart 2.x and converted to OCMOD.
 
 ## Works with
 
@@ -43,7 +45,7 @@ Just put the `.xml` file into the vQmod `/xml` folder. That's it!
 
 ## Compatibility
 
-OpenCart 1.5.3 ~ 1.5.6.4
+OpenCart 2.x (2.0.0, 2.0.1.1, 2.0.2.0)
 
 ## See also
 
