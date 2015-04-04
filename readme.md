@@ -32,7 +32,7 @@ A URL that has been taken
 
 ## Force Updates
 
-You can force keyword updates to make sure your client is using the proper URL, but doing that you won't be able to customize keywords. Open the `.xml` file from this extension and find the variable `$force_keyword`, then set it to `true` to force keyword updates on every change or `false` to update only when the field keyword is empty.
+You can force keyword updates to make sure your client is using the proper URL, but doing that you won't be able to customize keywords. Open the `.ocmod.xml` file from this extension and find the variable `$force_keyword`, then set it to `true` to force keyword updates on every change or `false` to update only when the field keyword is empty.
 
 ## Requirements
 
@@ -41,13 +41,8 @@ You can force keyword updates to make sure your client is using the proper URL, 
 
 ## Installation
 
-Use the **Extension Installer** to upload the file. Go to Modifications page and click the **Refresh** button for the changes to take effect.
+Use the **Extension Installer** to upload the file. Then go to Modifications page and click the **Refresh** button for the changes to take effect.
 
 ## Compatibility
 
 OpenCart 2.x (2.0.0, 2.0.1.1, 2.0.2.0)
-
-## See also
-
-- [GitHub](https://github.com/edirpedro/opencart-simple-seo-url-generator)
-- [OpenCart](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=18305)
