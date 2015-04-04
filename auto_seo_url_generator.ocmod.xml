@@ -2,8 +2,8 @@
   <name>Auto SEO URL Generator</name>
   <code>URLgenerator</code>
   <version>1.0.4</version>
-  <author>edirpedro</author>
-  <link>http://edirpedro.com.br</link>
+  <author>Aamnah.com</author>
+  <link>http:/aamnah.com</link>
 
   <file path="system/library/url.php">
     <operation error="log">
